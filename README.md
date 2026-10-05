@@ -41,7 +41,6 @@ The project combines **clean frontend development, interactive UI, animations, r
 - ☕ Coffee
 - 🛍️ Merchandise
 - 🤝 Community
-- 🎟️ Membership
 - 📍 Visit
 
 ---
@@ -80,7 +79,6 @@ The website is being developed and uploaded to GitHub **page by page**, with new
 | ☕ Coffee | ✅ |
 | 🛍️ Merchandise | ✅ |
 | 🤝 Community | ✅ |
-| 🎟️ Membership | ✅ |
 | 📍 Visit | ✅ |
 
 ---
