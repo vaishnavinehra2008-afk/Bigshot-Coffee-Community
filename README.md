@@ -77,11 +77,11 @@ The website is being developed and uploaded to GitHub **page by page**, with new
 |---|---|
 | 🏠 Home | ✅ |
 | 👋 About | ✅ |
-| ☕ Coffee | 🚧 |
-| 🛍️ Merchandise | 🚧 |
-| 🤝 Community | 🚧 |
-| 🎟️ Membership | 🚧 |
-| 📍 Visit | 🚧 |
+| ☕ Coffee | ✅ |
+| 🛍️ Merchandise | ✅ |
+| 🤝 Community | ✅ |
+| 🎟️ Membership | ✅ |
+| 📍 Visit | ✅ |
 
 ---
 
